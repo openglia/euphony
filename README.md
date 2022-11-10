@@ -1,2 +1,9 @@
-# euphony
-python package for multimodal analysis
+# Euphony
+
+![]("img/logo.png")
+
+Python package for multimodal analysis
+
+## License
+
+MIT LICENSE 
